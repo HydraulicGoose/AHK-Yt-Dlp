@@ -2,9 +2,9 @@
 One button youtube downloads with yt-dlp and autohotkey
 
 # Usage
-1. Download autohotkey, yt-dlp, and this repo
+1. Download [autohotkey](https://www.autohotkey.com/), [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases), [ffmpeg](https://ffmpeg.org/download.html), and this repo
 2. Create config files below
-3. Run script, copy youtube url, then press the `right alt` key to download video
+3. Run script, copy youtube url, then press the `right alt` key to download video. `ctrl + right alt` to open youtube folder
 
 All files should be in the same directory.
 By default videos are stored in `%USERPROFILE%\Videos\Youtube Videos`. To customize yt-dlp behavior, edit `yt-dlp.conf`.
